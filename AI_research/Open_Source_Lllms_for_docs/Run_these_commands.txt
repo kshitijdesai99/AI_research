@@ -1,0 +1,7 @@
+1. Go to Website https://github.com/imartinez/privateGPT
+2. git init
+3. git clone https://github.com/imartinez/privateGPT.git
+4. python3 -m venv env
+5. source venv/bin/activate
+6. cd privateGPT
+7. Create a untitled.ipynb file
